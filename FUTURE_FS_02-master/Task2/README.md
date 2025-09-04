@@ -125,6 +125,7 @@ The platform includes **48 products** across **8 categories**:
 3. Start frontend:
     npm run dev
     Frontend runs on: http://localhost:5173 (or assigned port)
+```
 📁 Folder Structure
       backend/
       ├─ server.js
@@ -142,7 +143,7 @@ The platform includes **48 products** across **8 categories**:
       │  └─ App.tsx
       └─ package.json
 ⚙️ Dependencies
-
+```
 Backend:
   express
   mongoose
@@ -169,5 +170,5 @@ LocalStorage is used only for temporary frontend state; backend ensures persiste
 
 👤 Author
 
-Naveen Kethavath
+Kethavath Naveen
 Full-stack developer | React & Node.js Enthusiast
